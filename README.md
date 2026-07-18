@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋
+26120036
 
-<!--
-**26120036/26120036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
+* HTML
+* JavaScript
+* CSS
+* Java
 
-Here are some ideas to get you started:
+## 💻 Languages & Technologies
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)  
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=26120036&layout=compact&langs_count=10&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=26120036&layout=compact&langs_count=10&theme=vue)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=26120036&rank_icon=github&custom_title=My%20Github%20Status&show_icons=true&include_all_commits=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=26120036&rank_icon=github&custom_title=My%20Github%20Status&show_icons=true&include_all_commits=true&theme=vue)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😄 Pronouns
+he/him
